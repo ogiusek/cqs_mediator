@@ -1,0 +1,8 @@
+{
+  "name": "empty",
+  "scripts": {
+    "start": "g++ -o dist main.cpp && ./dist && rm dist"
+  },
+  "author": "",
+  "license": "ISC"
+}
